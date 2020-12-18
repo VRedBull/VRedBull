@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning javascript
 - ⚡ Fun fact: In Africa every 60secs an a 60th of an hour passes
 
-<img src="https://github-readme-stats.vercel.app/api?username=VRedBull&&show_icons=true&title_color=15ff00&icon_color=cc00ff&text_color=ffffff&bg_color=000000" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=VRedBull&&show_icons=true&title_color=15ff00&icon_color=cc00ff&text_color=ffffff&bg_color=000000" width="500">
 
 #### Here's something to motivate my fellow programmers
 
