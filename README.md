@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on flutter apps
 - 🌱 I’m currently learning javascript
-- ⚡ Fun fact: In Africa every 60secs an a 60th of an hour passes
+- ⚡ Fun fact: In Africa every 60secs a 60th of an hour passes
 
 #### Something I look forward to while programming
 
