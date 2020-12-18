@@ -1,9 +1,5 @@
 ### Hello fellow programmers 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on flutter apps
 - 🌱 I’m currently learning javascript
 - ⚡ Fun fact: In Africa every 60secs an a 60th of an hour passes
