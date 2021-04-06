@@ -13,6 +13,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=VRedBull&&show_icons=true&title_color=15ff00&icon_color=cc00ff&text_color=ffffff&bg_color=000000" width="450">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VRedBull&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=15ff00&icon_color=cc00ff" width = "350">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VRedBull&theme=juicyfresh&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **VRedBull/VRedBull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
